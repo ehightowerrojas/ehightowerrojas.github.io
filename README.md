@@ -1,2 +1,2 @@
-# ehightowerrojas.github.io
-Evangel's Personal Website
+# Hello, I'm Evangel 👋
+linked In | ehightowerrojas@gmail.com | Instagram
