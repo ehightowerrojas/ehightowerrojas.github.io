@@ -17,7 +17,7 @@ As of 2023 - present
 
 <img src="images/logo(1).png" alt="Scholar Brilliance Logo" width="100" height="100">  **Scholar Brilliance** - Co-Founder and Lead Developer
 
-<img src="images/1630581976246.png" alt="Stanford Logo" width="100" height="100">  **Stanford Inspirit AI** - Ambassador
+<img src="images/1630581976246.jng" alt="Stanford Logo" width="100" height="100">  **Stanford Inspirit AI** - Ambassador
 
 <img src="images/aiedu-logo.png" alt="UCSC Logo" width="100" height="100">  **University of California, Santa Cruz** - BS in Computer Science & Game Design
 
