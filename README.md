@@ -11,35 +11,20 @@ Currently, I’ve partnered with [aiEDU](https://www.aiedu.org/) to teach middle
 
 As of 2023 - present
 
-**Intro to AI Instructor**   Using aiEDU’s curriculum
+**Intro to AI Instructor** Using aiEDU's curriculum
+![aiEDU Logo](images/aiedu-logo.png)
 
-<aside>
-<img src="attachment:d9835a31-8a86-49c9-9b89-b2a64cd77046:Screenshot_2025-07-24_114525.png" alt="attachment:d9835a31-8a86-49c9-9b89-b2a64cd77046:Screenshot_2025-07-24_114525.png" width="40px" />
+**World Engine AI** Robotic Control Operator
+![World Engine AI Logo](images/world-engine-logo.png)
 
-**World Engine AI**   Robotic Control Operator
+**Scholar Brilliance** Co-Founder and Lead Developer
+![Scholar Brilliance Logo](images/scholar-brilliance-logo.png)
 
-</aside>
+**Stanford Inspirit AI** Ambassador
+![Stanford Logo](images/stanford-logo.png)
 
-<aside>
-<img src="attachment:c1f538c0-3582-4a8c-9245-3257f1382085:logo.png" alt="attachment:c1f538c0-3582-4a8c-9245-3257f1382085:logo.png" width="40px" />
-
-**Scholar Brilliance**   Co-Founder and Lead Developer
-
-</aside>
-
-<aside>
-<img src="attachment:47b0f091-94f5-4d7a-a627-6e0d407b91ac:1630581976246.jpg" alt="attachment:47b0f091-94f5-4d7a-a627-6e0d407b91ac:1630581976246.jpg" width="40px" />
-
-**Stanford Inspirit AI**   Ambassador
-
-</aside>
-
-<aside>
-<img src="attachment:8602d2a2-015e-4c07-9126-931b8436ec57:ucsc-seal.jpg" alt="attachment:8602d2a2-015e-4c07-9126-931b8436ec57:ucsc-seal.jpg" width="40px" />
-
-**University of California, Santa Cruz   |**   BS in Computer Science & Game Design
-
-</aside>
+**University of California, Santa Cruz** | BS in Computer Science & Game Design
+![UCSC Logo](images/ucsc-logo.png)
 
 ### Summary
 
