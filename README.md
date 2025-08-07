@@ -11,16 +11,6 @@ Currently, I’ve partnered with [aiEDU](https://www.aiedu.org/) to teach middle
 
 As of 2023 - present
 
-<img src="images/aiedu_logo.jpg" alt="aiEDU Logo" width="45" height="45">  **Intro to AI Instructor** - Using aiEDU's curriculum 
-
-<img src="images/logo.png" alt="World Engine AI Logo" width="45" height="45">  **World Engine AI** - Robotic Control Operator
-
-<img src="images/logo(1).png" alt="Scholar Brilliance Logo" width="45" height="45">  **Scholar Brilliance** - Co-Founder and Lead Developer
-
-<img src="images/1630581976246.jpg" alt="Stanford Logo" width="45" height="45">  **Stanford Inspirit AI** - Ambassador
-
-<img src="images/aiedu-logo.png" alt="UCSC Logo" width="45" height="45">  **University of California, Santa Cruz** - BS in Computer Science & Game Design
-
 <table>
   <tr>
     <td><img src="images/aiedu_logo.jpg" alt="aiEDU Logo" width="45"></td>
