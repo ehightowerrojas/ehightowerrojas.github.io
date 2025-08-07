@@ -23,16 +23,24 @@ As of 2023 - present
 
 <table>
   <tr>
-    <td><img src="images/aiedu-logo.png" alt="aiEDU Logo" width="50"></td>
+    <td><img src="images/aiedu_logo.jpg" alt="aiEDU Logo" width="45"></td>
     <td><strong>Intro to AI Instructor</strong> - Using aiEDU's curriculum</td>
   </tr>
   <tr>
-    <td><img src="images/world-engine-logo.png" alt="World Engine AI Logo" width="50"></td>
+    <td><img src="images/logo.png" alt="World Engine AI Logo" width="45"></td>
     <td><strong>World Engine AI</strong> - Robotic Control Operator</td>
   </tr>
   <tr>
-    <td><img src="images/scholar-brilliance-logo.png" alt="Scholar Brilliance Logo" width="50"></td>
+    <td><img src="images/logo(1).png" alt="Scholar Brilliance Logo" width="45"></td>
     <td><strong>Scholar Brilliance</strong> - Co-Founder and Lead Developer</td>
+  </tr>
+  <tr>
+    <td><img src="images/1630581976246.jpg" alt="Stanford Logo" width="45"></td>
+    <td><strong>Stanford Inspirit AI</strong> - Ambassador</td>
+  </tr>
+  <tr>
+    <td><img src="images/aiedu-logo.png" alt="UCSC Logo" width="45"</td>
+    <td><strong>University of California, Santa Cruz</strong> - BS in Computer Science, Game Design</td>
   </tr>
 </table>
 
