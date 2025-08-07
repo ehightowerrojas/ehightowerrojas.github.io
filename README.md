@@ -10,7 +10,7 @@ Currently, I’ve partnered with [aiEDU](https://www.aiedu.org/) to teach middle
 ### Experience & Education
 
 As of 2023 - present
-
+<body>
 **Intro to AI Instructor** Using aiEDU's curriculum
 ![aiEDU Logo](images/aiedu-logo.png)
 
@@ -25,7 +25,7 @@ As of 2023 - present
 
 **University of California, Santa Cruz** | BS in Computer Science & Game Design
 ![UCSC Logo](images/ucsc-logo.png)
-
+</body>
 ### Summary
 
 - Tech professional based in Los Angeles with focus on educational technology and AI
