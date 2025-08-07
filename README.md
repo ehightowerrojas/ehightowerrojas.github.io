@@ -12,14 +12,19 @@ Currently, I’ve partnered with [aiEDU](https://www.aiedu.org/) to teach middle
 As of 2023 - present
   
 ![aiEDU Logo](images/aiedu_logo.jpg)  **Intro to AI Instructor** - Using aiEDU's curriculum  
+<img src="images/aiedu-logo.jpg" alt="aiEDU Logo" width="100" height="100">
 
-![World Engine AI Logo](images/logo.png)  **World Engine AI** - Robotic Control Operator  
+![World Engine AI Logo](images/logo.png)  **World Engine AI** - Robotic Control Operator
+<img src="images/logo.png" alt="World Engine AI Logo" width="100" height="100">
 
-![Scholar Brilliance Logo](images/logo(1).png)  **Scholar Brilliance** - Co-Founder and Lead Developer  
+![Scholar Brilliance Logo](images/logo(1).png)  **Scholar Brilliance** - Co-Founder and Lead Developer
+<img src="images/logo(1).png" alt="Scholar Brilliance Logo" width="100" height="100">
 
-![Stanford Logo](images/1630581976246.jpg)  **Stanford Inspirit AI** - Ambassador  
+![Stanford Logo](images/1630581976246.jpg)  **Stanford Inspirit AI** - Ambassador
+<img src="images/1630581976246.png" alt="Stanford Logo" width="100" height="100">
 
-![UCSC Logo](images/aiedu-logo.png)  **University of California, Santa Cruz** - BS in Computer Science & Game Design  
+![UCSC Logo](images/aiedu-logo.png)  **University of California, Santa Cruz** - BS in Computer Science & Game Design
+<img src="images/aiedu-logo.png" alt="UCSC Logo" width="100" height="100">
 
 ### Summary
 
