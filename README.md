@@ -11,7 +11,7 @@ Currently, I’ve partnered with [aiEDU](https://www.aiedu.org/) to teach middle
 
 As of 2023 - present
 
-<img src="images/aiedu-logo.jpg" alt="aiEDU Logo" width="100" height="100">  **Intro to AI Instructor** - Using aiEDU's curriculum  
+<img src="images/aiedu_logo.jpg" alt="aiEDU Logo" width="100" height="100">  **Intro to AI Instructor** - Using aiEDU's curriculum  
 
 <img src="images/logo.png" alt="World Engine AI Logo" width="100" height="100">  **World Engine AI** - Robotic Control Operator
 
