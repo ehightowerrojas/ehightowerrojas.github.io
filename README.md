@@ -29,7 +29,7 @@ As of 2023 - present
     <td><strong>Stanford Inspirit AI</strong> - Ambassador</td>
   </tr>
   <tr>
-    <td><img src="images/aiedu-logo.png" alt="University of California, Santa Cruz Logo" width="45"</td>
+    <td><img src="images/aiedu-logo.png" alt="UCSC Logo" width="45"></td>
     <td><strong>University of California, Santa Cruz</strong> - BS in Computer Science, Game Design</td>
   </tr>
 </table>
