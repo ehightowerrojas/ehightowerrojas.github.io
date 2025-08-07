@@ -18,7 +18,7 @@ As of 2023 - present
 ![World Engine AI Logo](images/logo.png)
 
 **Scholar Brilliance** - Co-Founder and Lead Developer  
-![Scholar Brilliance Logo](images/logo (1).png)
+![Scholar Brilliance Logo](images/logo(1).png)
 
 **Stanford Inspirit AI** - Ambassador  
 ![Stanford Logo](images/1630581976246.jpg)
