@@ -12,8 +12,6 @@ Currently, I’ve partnered with [aiEDU](https://www.aiedu.org/) to teach middle
 As of 2023 - present
 
 <img src="images/aiedu_logo.jpg" alt="aiEDU Logo" width="45" height="45">  **Intro to AI Instructor** - Using aiEDU's curriculum 
-<img src="images/aiedu-logo.png" alt="aiEDU Logo" width="45" style="vertical-align: middle; margin-right: -20px;">
-<strong>Intro to AI Instructor</strong> - Using aiEDU's curriculum
 
 <img src="images/logo.png" alt="World Engine AI Logo" width="45" height="45">  **World Engine AI** - Robotic Control Operator
 
@@ -22,6 +20,21 @@ As of 2023 - present
 <img src="images/1630581976246.jpg" alt="Stanford Logo" width="45" height="45">  **Stanford Inspirit AI** - Ambassador
 
 <img src="images/aiedu-logo.png" alt="UCSC Logo" width="45" height="45">  **University of California, Santa Cruz** - BS in Computer Science & Game Design
+
+<table>
+  <tr>
+    <td><img src="images/aiedu-logo.png" alt="aiEDU Logo" width="50"></td>
+    <td><strong>Intro to AI Instructor</strong> - Using aiEDU's curriculum</td>
+  </tr>
+  <tr>
+    <td><img src="images/world-engine-logo.png" alt="World Engine AI Logo" width="50"></td>
+    <td><strong>World Engine AI</strong> - Robotic Control Operator</td>
+  </tr>
+  <tr>
+    <td><img src="images/scholar-brilliance-logo.png" alt="Scholar Brilliance Logo" width="50"></td>
+    <td><strong>Scholar Brilliance</strong> - Co-Founder and Lead Developer</td>
+  </tr>
+</table>
 
 ### Summary
 
