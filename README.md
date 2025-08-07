@@ -10,6 +10,7 @@ Currently, I’ve partnered with [aiEDU](https://www.aiedu.org/) to teach middle
 ### Experience & Education
 
 As of 2023 - present
+
 <body>
 **Intro to AI Instructor** Using aiEDU's curriculum
 ![aiEDU Logo](images/aiedu-logo.png)
