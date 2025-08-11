@@ -1,7 +1,7 @@
 ---
 layout: default
 title: home
-permalink: /home/
+permalink: [/home/](https://ehightowerrojas.github.io/)
 ---
 
 # Hello, I'm Evangel 👋
