@@ -1,3 +1,9 @@
+---
+layout: default
+title: home
+permalink: /home/
+---
+
 # Hello, I'm Evangel 👋
 [linked In](https://www.linkedin.com/in/evangel-hightower-rojas-924027302/) | ehightowerrojas@gmail.com | [Instagram](https://www.instagram.com/speedsheep_/)
 
