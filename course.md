@@ -4,6 +4,7 @@ title: course
 permalink: /course/
 ---
 *Welcome to Intro to Artificial Intelligence!*
+
 [linked In](https://www.linkedin.com/in/evangel-hightower-rojas-924027302/) | [ehightowerrojas@gmail.com](mailto:ehightowerrojas@gmail.com) | [Instagram](https://www.instagram.com/speedsheep_/) 
 
 ### What you'll get out of the course
