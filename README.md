@@ -8,7 +8,7 @@ Based in Los Angeles, I’m the Lead Developer for [Scholar Brilliance](https://
 
 During my first and second years of University, I developed [MyChef](https://mychef.replit.app/) a recommendation system that provides users with healthy meals, based on their available ingredients at home. Additionally, I gathered training data for [World Engine AI’s](https://worldengine.ai/) advancements in robotics.
 
-Currently, I’ve used curriculum provided by [aiEDU](https://www.aiedu.org/) to teach middle and high school students an introductory course to Artificial Intelligence. For more info on the course navigate [here](/course)
+Currently, I’ve used curriculum provided by [aiEDU](https://www.aiedu.org/) to teach middle and high school students an introductory course to Artificial Intelligence. For more info on the course navigate [here](/course.md)
 
 ### Experience & Education
 
