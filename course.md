@@ -8,7 +8,7 @@ permalink: /course/
 
 While other students are still learning yesterday's skills, your teen will begin to grasp the technology that's reshaping every industry. It's future-proofing their career. 
 <table> 
-  <tr> <td>No Coding Experience Needed</td> </tr>
+  <tr> <td><strong>No Coding Experience Needed!</strong></td> </tr>
 </table>
 
 
