@@ -3,9 +3,14 @@ title: course
 permalink: /course/
 ---
 # Empower Your Child with AI Skills for the Future
-While other students are still learning yesterday's skills, your teen will begin to grasp the technology that's reshaping every industry. It's future-proofing their career. 
 
 [linked In](https://www.linkedin.com/in/evangel-hightower-rojas-924027302/) | [ehightowerrojas@gmail.com](mailto:ehightowerrojas@gmail.com) | [Instagram](https://www.instagram.com/speedsheep_/) 
+
+While other students are still learning yesterday's skills, your teen will begin to grasp the technology that's reshaping every industry. It's future-proofing their career. 
+<table> 
+  <tr> No Coding Experience Needed </tr>
+</table>
+
 
 ### What you'll get out of the course
 
