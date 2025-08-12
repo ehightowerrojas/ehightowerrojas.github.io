@@ -25,15 +25,11 @@ permalink: /course/
 
 August 26 - September 25, 2025 | Every Tuesday & Thursday, 5 - 6 PM PST 
 
-<aside>
-
 ## Invest in Your Child’s Future!
 
-**$400 upfront payment, $40 per session for college-level AI education.**
+### $400 upfront payment, $40 per session for college-level AI education.
 
 [Click here to enroll](https://docs.google.com/forms/d/e/1FAIpQLSfca1J2xevEUDhyWfgeHIzrPMprrqGi9_lFRswb0HNlBNfipg/viewform?usp=header)!
-
-</aside>
 
 ### Questions?
 
