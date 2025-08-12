@@ -6,7 +6,7 @@ permalink: /course/
 
 [linked In](https://www.linkedin.com/in/evangel-hightower-rojas-924027302/) | [ehightowerrojas@gmail.com](mailto:ehightowerrojas@gmail.com) | [Instagram](https://www.instagram.com/speedsheep_/) 
 
-While other students are still learning yesterday's skills, your teen will begin to grasp the technology that's reshaping every industry. It's future-proofing their career. 
+While other students are still learning yesterday's skills, your teen will begin to grasp the technology that's reshaping every industry. It's future-proofing their career. Curriculum powered by [aiEDU](https://www.aiedu.org/), a nonprofit that promotes education in Artificial Intelligence, 
 <table> 
   <tr> <td><strong>No Coding Experience Needed!</strong></td> </tr>
 </table>
@@ -30,6 +30,10 @@ While other students are still learning yesterday's skills, your teen will begin
 ### Schedule
 
 August 26 - September 25, 2025 | Every Tuesday & Thursday, 5 - 6 PM PST 
+
+## See What Past Students Have to Say!
+
+"Yes, I would definitely recommend this class to someone else because it combines hands-on learning with practical, real-world applications. It not only teaches the technical side of AI and data analysis but also emphasizes creativity, problem-solving, and ethical responsibility. The class makes complex concepts easy to understand, encourages collaboration, and helps you build skills that are valuable for both academic and career paths." - Joseph Chase
 
 ## Invest in Your Child’s Future!
 
