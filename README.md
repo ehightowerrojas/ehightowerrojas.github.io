@@ -1,11 +1,16 @@
 # Hello, I'm Evangel 👋
 [linked In](https://www.linkedin.com/in/evangel-hightower-rojas-924027302/) | ehightowerrojas@gmail.com | [Instagram](https://www.instagram.com/speedsheep_/)
 
-Based in Los Angeles, I’m the Lead Developer for [Scholar Brilliance](https://scholarbrilliance.com/) an EdTech solution for students to live a debt-free college life. <img src="images/1712003181668.jpg" alt="Evan photo">
+<table>
+  <tr>
+    <td>Based in Los Angeles, I’m the Lead Developer for [Scholar Brilliance](https://scholarbrilliance.com/) an EdTech solution for students to live a debt-free college life. 
 
 During my first and second years of University, I developed [MyChef](https://mychef.replit.app/) a recommendation system that provides users with healthy meals, based on their available ingredients at home. Additionally, I gathered training data for [World Engine AI’s](https://worldengine.ai/) advancements in robotics.
 
-Currently, I’ve used curriculum provided by [aiEDU](https://www.aiedu.org/) to teach middle and high school students an introductory course to Artificial Intelligence. For more info on the course navigate [here](/course.md)
+Currently, I’ve used curriculum provided by [aiEDU](https://www.aiedu.org/) to teach middle and high school students an introductory course to Artificial Intelligence. For more info on the course navigate [here](/course.md)</td>
+    <td><img src="images/1712003181668.jpg" alt="Evan photo"></td>
+  </tr>
+</table>
 
 ### Experience & Education
 
