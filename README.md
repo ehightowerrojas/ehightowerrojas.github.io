@@ -9,7 +9,7 @@
     During my first and second years of University, I developed <a href="https://mychef.replit.app/">MyChef</a>, a recommendation system that provides users with healthy meals, based on their available ingredients at home. Additionally, I gathered training data for <a href="https://worldengine.ai/">World Engine AI's</a> advancements in robotics.
     
     Currently, I've used curriculum provided by <a href="https://www.aiedu.org/">aiEDU</a> to teach middle and high school students an introductory course to Artificial Intelligence. For more info on the course navigate <a href="/course.md">here</a></td>
-    <td><img src="images/171203181668.jpg" alt="Evan photo" width="120"></td>
+    <td><img src="images/171203181668.jpg" alt="Evan photo" width="1200"></td>
   </tr>
 </table>
 
