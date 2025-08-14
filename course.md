@@ -16,7 +16,7 @@ While other students are still learning yesterday's skills, your teen will begin
 1. **Project-Based learning**  Students build real AI applications they can showcase to employers
 2. **Live Online Sessions**  Interactive Zoom classes with personalized attention and real-time feedback
 
-### Expert Instructor with ‘Experience
+### Expert Instructor with Experience
 
 1. UCSC’s Computer Science program
 2. Stanford Inspirit AI Ambassador
