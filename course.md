@@ -32,7 +32,7 @@ August 26 - September 25, 2025 | Every Tuesday & Thursday, 5 - 6 PM PST
 
 ## See What Past Students Have to Say!
 
-"Yes, I would definitely recommend this class to someone else because it combines hands-on learning with practical, real-world applications. It not only teaches the technical side of AI and data analysis but also emphasizes creativity, problem-solving, and ethical responsibility. The class makes complex concepts easy to understand, encourages collaboration, and helps you build skills that are valuable for both academic and career paths." - Joseph Chase
+"Yes, I would definitely recommend this class to someone else because it combines hands-on learning with practical, real-world applications. It not only teaches the technical side of AI and data analysis but also emphasizes creativity, problem-solving, and ethical responsibility. <strong>The class makes complex concepts easy to understand, encourages collaboration</strong>, and helps you build skills that are valuable for both academic and career paths." - Joseph Chase
 
 ### $400 upfront payment, $40 per session for college-level AI education.
 
