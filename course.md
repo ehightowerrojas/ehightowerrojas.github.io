@@ -4,7 +4,7 @@ permalink: /course/
 ---
 # Empower Your Child with AI Skills for the Future
 
-[linked In](https://www.linkedin.com/in/evangel-hightower-rojas-924027302/) | [ehightowerrojas@gmail.com](mailto:ehightowerrojas@gmail.com) | [Instagram](https://www.instagram.com/speedsheep_/)                                  <a href="/"><strong>Back</strong></a>
+[linked In](https://www.linkedin.com/in/evangel-hightower-rojas-924027302/) | [ehightowerrojas@gmail.com](mailto:ehightowerrojas@gmail.com) | [Instagram](https://www.instagram.com/speedsheep_/)                                  <a href="/"><strong><- Back</strong></a>
 
 While other students are still learning yesterday's skills, your teen will begin to grasp the technology that's reshaping every industry. It's future-proofing their career. Curriculum powered by [aiEDU](https://www.aiedu.org/), a nonprofit that promotes education in Artificial Intelligence, 
 <table> 
