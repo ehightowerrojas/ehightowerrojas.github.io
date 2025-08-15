@@ -9,7 +9,7 @@
 
     
     Currently, I've used curriculum provided by <a href="https://www.aiedu.org/">aiEDU</a> to teach middle and high school students an introductory course to Artificial Intelligence. For more info on the course navigate <a href="/course">here</a></td>
-    <td><img src="images/1712003181668.jpg" alt="Evan photo" width="1300"></td>
+    <td><img src="images/1712003181668.jpg" alt="Evan photo" width="1300"> AI is our future </td>
   </tr>
 </table>
 
