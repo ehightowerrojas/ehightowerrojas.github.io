@@ -887,24 +887,87 @@
     <!-- Contact Section -->
     <div class="contact-section">
         <h2>Contact Me</h2>
-        <div class="contact-underline"></div>
     
-        <div class="contact-info-container">
+        <div class="contact-container">
             <div class="contact-item">
                 <div class="contact-icon">
                     <i class="fas fa-envelope"></i>
                 </div>
-                <p>ehightowerrojas@gmail.com</p>
+                <div class="contact-text">
+                    ehightowerrojas@gmail.com
+                </div>
             </div>
         
             <div class="contact-item">
                 <div class="contact-icon">
                     <i class="fas fa-phone"></i>
                 </div>
-                <p>(213) 340-4881</p>
+                <div class="contact-text">
+                    (213) 340-4881
+                </div>
             </div>
         </div>
     </div>
+
+    <style>
+    /* Contact Section */
+    .contact-section {
+        padding: 20px 0;
+        background-color: #f0f2f5;
+    }
+    
+    .contact-section h2 {
+        font-size: 1.5rem;
+        color: #333;
+        margin-bottom: 20px;
+        padding-left: 20px;
+    }
+    
+    .contact-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;  /* This centers the items horizontally */
+        gap: 15px;
+        margin: 0 auto;
+        width: 100%;
+        max-width: 500px;
+    }
+    
+    .contact-item {
+        display: flex;
+        align-items: center;
+    }
+    
+    .contact-icon {
+        width: 30px;
+        height: 30px;
+        background-color: #0066cc;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-right: 15px;
+        color: white;
+        font-size: 0.9rem;
+    }
+    
+    .contact-text {
+        font-size: 0.95rem;
+        color: #333;
+    }
+    
+    /* Footer */
+    .site-footer {
+        background-color: #2c3e50;
+        color: white;
+        padding: 15px 0;
+        text-align: center;
+    }
+    
+    .footer-content {
+        font-size: 0.9rem;
+    }
+</style>
 
     <!-- Footer -->
     <footer>
