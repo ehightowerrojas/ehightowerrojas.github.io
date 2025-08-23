@@ -2784,7 +2784,7 @@
             </div>
             <div class="faq-list">
                 <div class="faq-item">
-                    <div class="faq-question">
+                    <div class="faq-question" onclick="toggleFaq(this)">
                         Does my child need coding experience?
                         <div class="faq-toggle"><i class="fas fa-chevron-down"></i></div>
                     </div>
@@ -2794,7 +2794,7 @@
                 </div>
                 
                 <div class="faq-item">
-                    <div class="faq-question">
+                    <div class="faq-question" onclick="toggleFaq(this)">
                         What are the technical requirements?
                         <div class="faq-toggle"><i class="fas fa-chevron-down"></i></div>
                     </div>
@@ -2804,7 +2804,7 @@
                 </div>
                 
                 <div class="faq-item">
-                    <div class="faq-question">
+                    <div class="faq-question" onclick="toggleFaq(this)">
                         How will this help with college applications?
                         <div class="faq-toggle"><i class="fas fa-chevron-down"></i></div>
                     </div>
@@ -2814,7 +2814,7 @@
                 </div>
                 
                 <div class="faq-item">
-                    <div class="faq-question">
+                    <div class="faq-question" onclick="toggleFaq(this)">
                         What makes this different from other coding classes?
                         <div class="faq-toggle"><i class="fas fa-chevron-down"></i></div>
                     </div>
@@ -2824,7 +2824,7 @@
                 </div>
                 
                 <div class="faq-item">
-                    <div class="faq-question">
+                    <div class="faq-question" onclick="toggleFaq(this)">
                         How interactive are the classes?
                         <div class="faq-toggle"><i class="fas fa-chevron-down"></i></div>
                     </div>
@@ -2834,7 +2834,7 @@
                 </div>
                 
                 <div class="faq-item">
-                    <div class="faq-question">
+                    <div class="faq-question" onclick="toggleFaq(this)">
                         What if my child misses a class?
                         <div class="faq-toggle"><i class="fas fa-chevron-down"></i></div>
                     </div>
@@ -2845,6 +2845,59 @@
             </div>
         </div>
     </section>
+
+    <script>
+        function toggleFaq(question) {
+            const answer = question.nextElementSibling;
+            const toggle = question.querySelector('.faq-toggle');
+            
+            // Close all other FAQ answers
+            const allQuestions = document.querySelectorAll('.faq-question');
+            const allAnswers = document.querySelectorAll('.faq-answer');
+            const allToggles = document.querySelectorAll('.faq-toggle');
+            
+            allQuestions.forEach(item => {
+                if (item !== question) {
+                    item.classList.remove('active');
+                }
+            });
+            
+            allAnswers.forEach(item => {
+                if (item !== answer) {
+                    item.classList.remove('active');
+                }
+            });
+            
+            allToggles.forEach(item => {
+                if (item !== toggle) {
+                    item.classList.remove('active');
+                }
+            });
+            
+            // Toggle current FAQ
+            question.classList.toggle('active');
+            answer.classList.toggle('active');
+            toggle.classList.toggle('active');
+        }
+
+        // Optional: Add keyboard accessibility
+        document.addEventListener('keydown', function(e) {
+            if (e.target.classList.contains('faq-question') && (e.key === 'Enter' || e.key === ' ')) {
+                e.preventDefault();
+                toggleFaq(e.target);
+            }
+        });
+
+        // Make FAQ questions focusable for accessibility
+        document.addEventListener('DOMContentLoaded', function() {
+            const faqQuestions = document.querySelectorAll('.faq-question');
+            faqQuestions.forEach(question => {
+                question.setAttribute('tabindex', '0');
+                question.setAttribute('role', 'button');
+                question.setAttribute('aria-expanded', 'false');
+            });
+        });
+    </script>
     
     <!-- Footer -->
     <footer class="site-footer">
