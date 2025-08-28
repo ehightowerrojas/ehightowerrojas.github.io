@@ -1277,14 +1277,17 @@
 
     <!-- JavaScript -->
     <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            // Mobile Menu Toggle
-            const mobileMenu = document.querySelector('.mobile-menu');
-            const navLinks = document.querySelector('.nav-links');
-            
+    document.addEventListener('DOMContentLoaded', function() {
+        // Mobile Menu Toggle
+        const mobileMenu = document.querySelector('.mobile-menu');
+        const navLinks = document.querySelector('.nav-links');
+        const body = document.body;
+        
+        if (mobileMenu && navLinks) {
             mobileMenu.addEventListener('click', function() {
                 navLinks.classList.toggle('active');
                 mobileMenu.classList.toggle('active');
+                body.classList.toggle('menu-open');
                 
                 // Change icon based on menu state
                 const icon = mobileMenu.querySelector('i');
@@ -1296,65 +1299,109 @@
                     icon.classList.add('fa-bars');
                 }
             });
-            
-            // Accordion functionality for curriculum weeks
-            const weekHeaders = document.querySelectorAll('.week-header');
-            
-            weekHeaders.forEach(header => {
-                header.addEventListener('click', function() {
-                    const content = this.nextElementSibling;
-                    const toggle = this.querySelector('.week-toggle');
-                    
-                    content.classList.toggle('active');
-                    toggle.classList.toggle('active');
-                });
-            });
-            
-            // FAQ Accordion
-            const faqQuestions = document.querySelectorAll('.faq-question');
-            
-            faqQuestions.forEach(question => {
-                question.addEventListener('click', function() {
-                    const answer = this.nextElementSibling;
-                    const toggle = this.querySelector('.faq-toggle');
-                    
-                    answer.classList.toggle('active');
-                    toggle.classList.toggle('active');
-                });
-            });
-            
-            // Smooth scrolling for anchor links
-            document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-                anchor.addEventListener('click', function(e) {
-                    e.preventDefault();
-                    
-                    const targetId = this.getAttribute('href');
-                    if (targetId === '#') return;
-                    
-                    const targetElement = document.querySelector(targetId);
-                    if (targetElement) {
-                        window.scrollTo({
-                            top: targetElement.offsetTop - 70,
-                            behavior: 'smooth'
-                        });
+    
+            // Close mobile menu when clicking on a link
+            const navLinkItems = document.querySelectorAll('.nav-links a');
+            navLinkItems.forEach(link => {
+                link.addEventListener('click', function() {
+                    if (!this.classList.contains('cta-button') && navLinks.classList.contains('active')) {
+                        navLinks.classList.remove('active');
+                        mobileMenu.classList.remove('active');
+                        body.classList.remove('menu-open');
+                        
+                        const icon = mobileMenu.querySelector('i');
+                        icon.classList.remove('fa-times');
+                        icon.classList.add('fa-bars');
                     }
                 });
             });
-            
-            // Form submission
-            const contactForm = document.getElementById('contactForm');
-            if (contactForm) {
-                contactForm.addEventListener('submit', function(e) {
-                    e.preventDefault();
+    
+            // Close mobile menu when clicking outside
+            document.addEventListener('click', function(event) {
+                if (!event.target.closest('nav') && navLinks.classList.contains('active')) {
+                    navLinks.classList.remove('active');
+                    mobileMenu.classList.remove('active');
+                    body.classList.remove('menu-open');
                     
-                    // In a real implementation, you'd send the form data to a server
-                    // For now, just show an alert
-                    alert('Thank you for your message! We will get back to you shortly.');
-                    contactForm.reset();
-                });
-            }
+                    const icon = mobileMenu.querySelector('i');
+                    icon.classList.remove('fa-times');
+                    icon.classList.add('fa-bars');
+                }
+            });
+    
+            // Handle window resize
+            window.addEventListener('resize', function() {
+                if (window.innerWidth > 768 && navLinks.classList.contains('active')) {
+                    navLinks.classList.remove('active');
+                    mobileMenu.classList.remove('active');
+                    body.classList.remove('menu-open');
+                    
+                    const icon = mobileMenu.querySelector('i');
+                    icon.classList.remove('fa-times');
+                    icon.classList.add('fa-bars');
+                }
+            });
+        }
+        
+        // Accordion functionality for curriculum weeks
+        const weekHeaders = document.querySelectorAll('.week-header');
+        
+        weekHeaders.forEach(header => {
+            header.addEventListener('click', function() {
+                const content = this.nextElementSibling;
+                const toggle = this.querySelector('.week-toggle');
+                
+                content.classList.toggle('active');
+                toggle.classList.toggle('active');
+            });
         });
+        
+        // FAQ Accordion
+        const faqQuestions = document.querySelectorAll('.faq-question');
+        
+        faqQuestions.forEach(question => {
+            question.addEventListener('click', function() {
+                const answer = this.nextElementSibling;
+                const toggle = this.querySelector('.faq-toggle');
+                
+                answer.classList.toggle('active');
+                toggle.classList.toggle('active');
+            });
+        });
+        
+        // Smooth scrolling for anchor links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                
+                const targetId = this.getAttribute('href');
+                if (targetId === '#') return;
+                
+                const targetElement = document.querySelector(targetId);
+                if (targetElement) {
+                    window.scrollTo({
+                        top: targetElement.offsetTop - 70,
+                        behavior: 'smooth'
+                    });
+                }
+            });
+        });
+        
+        // Form submission
+        const contactForm = document.getElementById('contactForm');
+        if (contactForm) {
+            contactForm.addEventListener('submit', function(e) {
+                e.preventDefault();
+                
+                // In a real implementation, you'd send the form data to a server
+                // For now, just show an alert
+                alert('Thank you for your message! We will get back to you shortly.');
+                contactForm.reset();
+            });
+        }
+    });
     </script>
+        
 </body>
 </html><!DOCTYPE html>
 <html lang="en">
@@ -2547,9 +2594,9 @@
                     <li><a href="#faq">FAQ</a></li>
                 </ul>
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLScDJgcM0ncYqVnTAl-gnxoMUohMhBT8xmTY7npVaYop4v6ntA/viewform?usp=header" class="cta-button">Enroll Now</a>
-                <div class="mobile-menu">
+                <button class="mobile-menu">
                     <i class="fas fa-bars"></i>
-                </div>
+                </button>
             </nav>
         </div>
     </header>
