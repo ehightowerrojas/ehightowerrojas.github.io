@@ -1268,7 +1268,8 @@
         const mobileMenu = document.querySelector('.mobile-menu');
         const navLinks = document.querySelector('.nav-links');
         const body = document.body;
-        
+
+    
         if (mobileMenu && navLinks) {
             mobileMenu.addEventListener('click', function() {
                 navLinks.classList.toggle('active');
@@ -1283,6 +1284,29 @@
                 } else {
                     icon.classList.remove('fa-times');
                     icon.classList.add('fa-bars');
+                }
+            });
+
+            mobileMenu.addEventListener('click', function() {
+                console.log('Menu button clicked!');
+                console.log('Before toggle - navLinks has active class:', navLinks.classList.contains('active'));
+                
+                navLinks.classList.toggle('active');
+                mobileMenu.classList.toggle('active');
+                body.classList.toggle('menu-open');
+                
+                console.log('After toggle - navLinks has active class:', navLinks.classList.contains('active'));
+                
+                // Change icon based on menu state
+                const icon = mobileMenu.querySelector('i');
+                if (navLinks.classList.contains('active')) {
+                    icon.classList.remove('fa-bars');
+                    icon.classList.add('fa-times');
+                    console.log('Changed icon to X');
+                } else {
+                    icon.classList.remove('fa-times');
+                    icon.classList.add('fa-bars');
+                    console.log('Changed icon to bars');
                 }
             });
     
